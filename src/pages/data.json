@@ -1,0 +1,12 @@
+{
+  "index": {
+    "title": "Grocery List",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, officia?",
+    "keywords": ["Keyword 1", "Keyword 2"]
+  },
+  "_404": {
+    "title": "404 | Grocery List",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, officia?",
+    "keywords": ["Keyword 1", "Keyword 2"]
+  }
+}
